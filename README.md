@@ -23,4 +23,7 @@ This is what happened in this code:
    tested with learning-rate of 0.001
    250 epochs
    
-the models reached 99% accuracy
+the models reached 99% accuracy and the lowest misprediction rate was:
+   MAPE: 1.15 for Google
+   MAPE: 3.00 for Apple 
+  
